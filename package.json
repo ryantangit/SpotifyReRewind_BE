@@ -1,0 +1,30 @@
+{
+  "name": "spotifyrerewind",
+  "version": "1.0.0",
+  "description": "Ryan Tan's spotify rewind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantangit/SpotifyReRewind.git"
+  },
+  "keywords": [
+    "spotify",
+    "rewind"
+  ],
+  "author": "Ryan Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryantangit/SpotifyReRewind/issues"
+  },
+  "homepage": "https://github.com/ryantangit/SpotifyReRewind#readme",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "request": "^2.88.2"
+  }
+}
